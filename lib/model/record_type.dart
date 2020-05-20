@@ -1,0 +1,3 @@
+enum RecordType{
+  BOOKADD, BOOKEDIT ,GAMEADD, GAMEEDIT
+}
